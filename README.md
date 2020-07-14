@@ -1,3 +1,6 @@
+# Caution
+To see the code without any problem, first **clone or download the repository**. Then see the result on local system.
+
 # MRZ-finder-using-ML-model
 In this repository, I introduced a simple method to find machine readable zone (MRZ) region. This region is a common reason in identification documents such as passports. To solve the problem, I used a CNN model plus some techniques (and also some tricks) based on image processing. I had to create a synthetic dataset to train my model.<br>
 # Notes:
